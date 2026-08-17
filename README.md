@@ -478,7 +478,7 @@ Rather than treating an LLM as a single end-to-end black box, the project demons
 
 # 👨‍💻 Author
 
-**Vamsi Kanithi**
+**Saivamsi Kanithi**
 
 Built as an advanced portfolio project exploring:
 
