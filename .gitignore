@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local environments & keys
+.env
+.venv/
+venv/
+ENV/
+
+# Vector database cache
+.chroma/
+
+# Generated audio outputs
+*.mp3
+*.wav
